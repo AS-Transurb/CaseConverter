@@ -33,6 +33,11 @@
         /// <summary>
         /// ケバブケースです。
         /// </summary>
-        KebabCase
-    }
+        KebabCase,
+      
+        /// <summary>
+        /// Adds spaces
+        /// </summary>
+        SpaceCase
+  }
 }

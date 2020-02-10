@@ -21,7 +21,8 @@ namespace CaseConverter.Converters
                 [StringCasePattern.SnakeCase] = new SnakeCaseConverter(),
                 [StringCasePattern.PascalSnakeCase] = new PascalSnakeCaseConverter(),
                 [StringCasePattern.ScreamingSnakeCase] = new ScreamingSnakeCaseConverter(),
-                [StringCasePattern.KebabCase] = new KebabCaseConverter()
+                [StringCasePattern.KebabCase] = new KebabCaseConverter(),
+                [StringCasePattern.SpaceCase] = new SpaceCaseConverter()
             };
 
         /// <summary>

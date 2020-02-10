@@ -60,6 +60,7 @@
     <Compile Include="Converters\PascalCaseConverter.cs" />
     <Compile Include="Converters\ScreamingSnakeCaseConverter.cs" />
     <Compile Include="Converters\SnakeCaseConverter.cs" />
+    <Compile Include="Converters\SpaceCaseConverter.cs" />
     <Compile Include="Options\GeneralOption.cs" />
     <Compile Include="Options\GeneralOptionPage.cs">
       <SubType>Component</SubType>
